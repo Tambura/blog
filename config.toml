@@ -1,3 +1,4 @@
-baseURL = 'https://tambura.github.io/blog'
+baseURL = 'https://tambura.github.io/blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Tambura'
+theme = 'hugo-PaperMod'
